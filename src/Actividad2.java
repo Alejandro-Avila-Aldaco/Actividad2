@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Actividad2 {
-    private String nombre;
-    private int[] calificaciones;
+     String nombre;
+     int[] calificaciones;
 
     public Actividad2(String nombre, int[] calificaciones) {
         this.nombre = nombre;
